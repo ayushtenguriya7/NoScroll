@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NoScroll</string>
+    <string name="service_desc">Detects when a Reels/Shorts screen opens in Instagram, YouTube or Facebook and automatically presses Back. Reads only screen element IDs; nothing is stored or sent anywhere.</string>
+</resources>
